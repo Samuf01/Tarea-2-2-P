@@ -86,15 +86,27 @@ SECCIÓN 9–3 Método de la corriente en lazos
 
 ![image](https://user-images.githubusercontent.com/94079321/148306634-e7aa6c60-fcd8-4f39-ad61-4a799042b1c6.png)
 
+![image](https://user-images.githubusercontent.com/94079321/148393958-e909c844-0f14-46a7-b02a-44010f7cfe2d.png)
+
 SECCIÓN 9–4 Método del voltaje en nodos 
 
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente. 
 
 ![image](https://user-images.githubusercontent.com/94079321/148306654-c8110151-cca3-49de-b873-87fb5daa4d61.png)
 
+![image](https://user-images.githubusercontent.com/94079321/148394117-d54eabfe-3c78-4704-a2ec-d87d85bf0bbe.png)
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 ![image](https://user-images.githubusercontent.com/94079321/148306746-250f1201-63e8-490a-9072-70c89b0824ec.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148395303-4f56e7ca-b6fe-4916-b105-84b855db8129.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148395340-24ae3d63-ad57-40f1-9d7a-071b7c4f4bd9.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148395366-a37b2bd2-ef32-4cc4-8c02-303b536fbb55.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148395384-319ea0c3-7d50-4a3b-8d05-ba94d5b674fe.png)
 
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
