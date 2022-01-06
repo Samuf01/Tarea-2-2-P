@@ -108,9 +108,6 @@ SECCIÓN 9–4 Método del voltaje en nodos
 
 ![image](https://user-images.githubusercontent.com/94079321/148395384-319ea0c3-7d50-4a3b-8d05-ba94d5b674fe.png)
 
-31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
-
-![image](https://user-images.githubusercontent.com/94079321/148306774-9e9fb2c0-3bce-4157-a2a1-210a6ed02294.png)
 
 4. Resolución Unidad 10
 
@@ -153,6 +150,7 @@ SECCIÓN 10–5 Inducción electromagnética
 
 21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
 
+La ley de Lenz nos dice en qué dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que la produce. 
 
 SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
@@ -160,8 +158,9 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 ![image](https://user-images.githubusercontent.com/94079321/148307745-ecfe641d-140d-4670-9ce1-5b7723bf9812.png)
 
+El ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.4
 
-25. Un generador de cd básico de una espira gira a 60 rev/s. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo. 
+25. Un generador de cd básico de una espira gira a 60 rev/s. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo. 
 
 
 
