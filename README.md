@@ -159,5 +159,7 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 7. Bibliografía
 
+Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
+
 8. Vídeo
 
