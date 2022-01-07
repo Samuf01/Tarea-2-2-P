@@ -11,6 +11,12 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 2. Marco Teórico
 
+![image](https://user-images.githubusercontent.com/94079321/148572035-2d43191d-9fed-431a-9232-ab8258d5c5d3.png)
+
+
+![image](https://user-images.githubusercontent.com/94079321/148572833-bba6fa27-de0c-4470-b03f-4bb2b9ca6d92.png)
+
+Prenda
 3. Resolución Unidad 9
 
 SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos 
