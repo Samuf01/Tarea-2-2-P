@@ -16,7 +16,7 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 ![image](https://user-images.githubusercontent.com/94079321/148572833-bba6fa27-de0c-4470-b03f-4bb2b9ca6d92.png)
 
-Prenda
+
 3. Resolución Unidad 9
 
 SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos 
@@ -26,20 +26,31 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
                               100I1 + 50I2 = 30
                               75I1 + 90I2 = 15
                               
+![image](https://user-images.githubusercontent.com/94079321/148841669-ea06424c-e89b-4cec-8925-67643598f4f4.png)
+
+                              
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
                               -I1 + 2I2 = 4
                               7I1 + 3I2 = 6
                               
+   ![image](https://user-images.githubusercontent.com/94079321/148841709-03f34cad-74c3-46a4-80e5-563be12daa23.png)
+
+                              
 5. Evalúe cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/94079321/148305570-08acefea-51e1-4bb4-ad89-0ba84d00f9f3.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148841737-89e2d3cc-623f-4832-8cb6-6272d9f19c8c.png)
 
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
                               2I1 - 6I2 + 10I3 = 9 
                               3I1 + 7I2 - 8I3 = 3 
                               10I1 + 5I2 - 12I3 = 0
+![image](https://user-images.githubusercontent.com/94079321/148841767-2ca1ffd0-7053-4b67-9365-df22b55040a3.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148841775-ffca5b98-ebfb-4ff7-928b-42aa2f509413.png)
 
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
@@ -47,12 +58,15 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
                               100I1 + 50I2 = 30
                               75I1 + 90I2 = 15
-                              
+ ![image](https://user-images.githubusercontent.com/94079321/148841814-366fb657-1d70-4304-b16d-230817fe4cbe.png)
+                             
 SECCIÓN 9–2 Método de la corriente en ramas
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 
 ![image](https://user-images.githubusercontent.com/94079321/148305593-c54f36aa-bebd-4077-b9cd-c95285143577.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148841848-a0c17890-5813-43c2-868d-780a462cf4f9.png)
 
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
