@@ -7,7 +7,12 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
+Determinar los procesos por los cuales podemos resolver ecuaciones y a su vez aplicarlas en la resolución de circuito.
+
 1.2. Objetivo Especifico
+- Analizar todas las formas de solucionar las ecuaciones planteadas para los ejercicios realizados.
+
+- Determinar todas las soluciones para los ejercicios realizados.
 
 2. Marco Teórico
 
@@ -136,12 +141,15 @@ SECCIÓN 9–4 Método del voltaje en nodos
 
 5. Conclusiones
 
-6. Recomendaciones  
+- La forma algebraica de la ecuaciones son la forma más óptima de resolver los ejercicios planteados, aplicando métodos como uso de determinantes y sistemas de ecuaciones.
 
-7. Bibliografía
+- Los métodos por los cuales se pueden resolver depende de cada uno, ya que es posible aplicar (cómo se pudo ver en los anteriores ejercicios) más de un método para resolverlo.
+
+
+6. Bibliografía
 
 Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
 
-8. Vídeo
+7. Vídeo
 
 Link:  https://youtu.be/lcUjQDjsiC8
