@@ -144,3 +144,4 @@ Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
 
 8. Vídeo
 
+Link:  https://youtu.be/lcUjQDjsiC8
